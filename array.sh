@@ -1,0 +1,7 @@
+name[0]="Ganesh"
+name[1]="Phani"
+name[2]="Kiran"
+name[3]="Bosu"
+echo "Names; ${name[0]}"
+echo "All Names ${name[*]}"
+echo "All Names  ${name[@]}"

@@ -1,4 +1,4 @@
-isPartTime=1;
+'isPartTime=1;
 isFullTime=2;
 isContracter=3;
 empRateHr=500;
